@@ -1,4 +1,4 @@
-var text="herozen13 Is Good At Terraria" // YOUR TEXT
+var text="herozen13 Is Not Good At Terraria" // YOUR TEXT
 var speed=50 // SPEED OF FADE
 var size=10 // FONT SIZE
 
